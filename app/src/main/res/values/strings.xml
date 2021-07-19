@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="heading" translatable="false">Welcome to Tic- Tac- Toe</string>
+    <string name="grid">grid</string>
+    <string name="status">status</string>
+    <string name="x_s_turn_tap_to_play">X\'s Turn - Tap to play</string>
+    <string name="setText">O\'s Turn - Tap to play</string>
+    <string name="textText">X\'s Turn - Tap to play</string>
+    <string name="Xsturn">X\'s Turn - Tap to play</string>
+    <string name="Osturn">O\'s Turn - Tap to play</string>
+</resources>
